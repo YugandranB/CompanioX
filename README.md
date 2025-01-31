@@ -38,34 +38,14 @@ CompanioX is an intelligent AI assistant designed to enhance creativity across m
 - Node.js & npm installed
 - Python (if using AI models locally)
 
-### Steps to Run
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-repo/CompanioX.git
-   cd CompanioX
-   ```
-2. Install dependencies:
-   ```sh
-   npm install
-   ```
-3. Start the application:
-   ```sh
-   npm start
-   ```
-4. Open your browser and go to:
-   ```
-   http://localhost:3000
-   ```
-
----
 
 ## 🔗 Get Started
 💬 **Try CompanioX today** and take your creativity to the next level! 🚀
 
 📷 **UI Preview:** *(🔗 [View Here](https://drive.google.com/file/d/10AiC0lT4eT4_gE1KMhVUtyYtR6mGdVOe/view?usp=drive_link))*
 
-## 🤝 Contributing
-We welcome contributions! Fork the repo, make changes, and submit a pull request.
+🎥 **Demo Video**: [Watch the demo video](https://drive.google.com/file/d/1EsGovt907mbLBgst6d40SwwZzfZGYbJi/view?usp=drive_link)
+
 
 ## 📜 License
 This project is licensed under the **MIT License**.
