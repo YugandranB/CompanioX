@@ -29,7 +29,7 @@ export default function CreativeCompanion() {
     
     setLoading(true);
     try {
-      const genAI = new GoogleGenerativeAI("AIzaSyDIw3p0g0UZ5K4FclprQ45mm_Xhy-UNytc");
+      const genAI = new GoogleGenerativeAI("XXXXXXXXXXXXXXXXXX");
       const model = genAI.getGenerativeModel({ model: "gemini-1.5-pro" });
 
       const result = await model.generateContent([
