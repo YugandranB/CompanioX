@@ -43,7 +43,7 @@ CompanioX is an intelligent AI assistant designed to enhance creativity across m
 💬 **Try CompanioX today** and take your creativity to the next level! 🚀
 
 ## 📷 **UI Preview:** 
-![UI Preview](https://drive.google.com/file/d/10AiC0lT4eT4_gE1KMhVUtyYtR6mGdVOe/view)
+![UI Preview](https://drive.google.com/file/d/10AiC0lT4eT4_gE1KMhVUtyYtR6mGdVOe/view?usp=sharing)
 
 
 🎥 **Demo Video**: [Watch the demo video](https://drive.google.com/file/d/1EsGovt907mbLBgst6d40SwwZzfZGYbJi/view?usp=drive_link)
